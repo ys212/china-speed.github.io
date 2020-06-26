@@ -228,6 +228,11 @@ gem sources -l
 bundle config mirror.https://rubygems.org https://gems.ruby-china.com
 ```
 
+## jdk下载加速
+[华为云](https://mirrors.huaweicloud.com/java/jdk/)
+```
+https://mirrors.huaweicloud.com/java/jdk/
+```
 ## acknowledgements
 
 感谢 [腾讯云](https://cloud.tencent.com/act/cps/redirect?redirect=10042&cps_key=16b83d1aa2e322d67b11fa1daaa4ab6b)、[七牛云](https://portal.qiniu.com/signup?code=1h6w1ounb13yp) 提供云存储和国内 CDN。
